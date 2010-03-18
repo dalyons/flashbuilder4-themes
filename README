@@ -1,0 +1,18 @@
+h2. Non-Sucky themes for Flash Builder 4
+
+This repo contains themes for Flash Builder 4 that dont sear the eyes like the default white.
+
+I created it because it was impossible to find themes for Flash Builder 4 on the webs.
+
+h2. Themes:
+
+* Vibrant Ink - manully copied out from Rico's settings: http://ricozuniga.com/2009/11/24/vibrant-ink-theme-in-flex-builder-3/
+* ZenBurnish - grab it from this cool cat: http://github.com/mnem/noiseandheat/tree/master/fb-zenburnish/
+
+h2. Installation:
+
+* Download whatever .epf file you want
+* open Flash Builder, goto File->Import->General->Preferences
+* choose the epf file, click 'import all' click finish
+* restart Flash Builder
+* party
